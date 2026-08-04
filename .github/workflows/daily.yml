@@ -1,0 +1,25 @@
+name: 每日自动运行
+
+on:
+  schedule:
+    # ⏰ 每天北京时间 9:00 运行（= UTC 1:00）
+    - cron: '0 1 * * *'
+  workflow_dispatch:   # ← 加这行可以手动点按钮触发，方便测试
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      # 第1步：把仓库代码下载下来
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      # 第2步：安装 Python（如果你用其他语言可删除）
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # 第3步：运行你的脚本
+      - name: 运行脚本
+        run: python main.py
