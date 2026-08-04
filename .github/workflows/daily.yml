@@ -1,25 +1,42 @@
-name: 每日自动运行
+name: 银狐木马监测 - 每日更新
 
 on:
   schedule:
-    # ⏰ 每天北京时间 9:00 运行（= UTC 1:00）
+    # 每天北京时间 9:00 运行（UTC 1:00）
+    # 如果想改成其他时间，用「北京时间 - 8」换算
     - cron: '0 1 * * *'
-  workflow_dispatch:   # ← 加这行可以手动点按钮触发，方便测试
+
+  # 允许手动点击按钮触发（方便测试）
+  workflow_dispatch:
 
 jobs:
-  run-script:
+  update-rules:
     runs-on: ubuntu-latest
+
     steps:
-      # 第1步：把仓库代码下载下来
+      # ① 拉取仓库代码
       - name: 检出代码
         uses: actions/checkout@v4
 
-      # 第2步：安装 Python（如果你用其他语言可删除）
-      - name: 安装 Python
+      # ② 设置 Python 环境
+      - name: 设置 Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      # 第3步：运行你的脚本
-      - name: 运行脚本
+      # ③ 运行你的脚本
+      - name: 运行银狐监测脚本
         run: python main.py
+
+      # ④ 查看生成的文件内容（方便在日志里确认）
+      - name: 查看生成结果
+        run: cat yinhu.txt
+
+      # ⑤（可选）把生成的 yinhu.txt 提交回仓库
+      - name: 提交更新后的规则文件
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add yinhu.txt
+          git commit -m "自动更新规则 $(date +'%Y-%m-%d %H:%M')" || echo "无变更"
+          git push
