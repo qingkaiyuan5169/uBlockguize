@@ -2,37 +2,33 @@ name: 银狐木马监测 - 每日更新
 
 on:
   schedule:
-    # 每天北京时间 9:00 运行（UTC 1:00）
-    # 如果想改成其他时间，用「北京时间 - 8」换算
     - cron: '0 1 * * *'
-
-  # 允许手动点击按钮触发（方便测试）
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-rules:
     runs-on: ubuntu-latest
 
     steps:
-      # ① 拉取仓库代码
+      # ✅ 升级：v4 → v5（使用 Node.js 24）
       - name: 检出代码
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
-      # ② 设置 Python 环境
+      # ✅ 升级：v5 → v6（使用 Node.js 24）
       - name: 设置 Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.11'
 
-      # ③ 运行你的脚本
       - name: 运行银狐监测脚本
         run: python main.py
 
-      # ④ 查看生成的文件内容（方便在日志里确认）
       - name: 查看生成结果
         run: cat yinhu.txt
 
-      # ⑤（可选）把生成的 yinhu.txt 提交回仓库
       - name: 提交更新后的规则文件
         run: |
           git config user.name "github-actions[bot]"
