@@ -1,6 +1,6 @@
 ! Title: 银狐木马监测
 ! Source: https://dfcloud.qzz.io/f/MJTE/fake.txt
-! Updated: 2026-08-09 02:58:08
+! Updated: 2026-08-10 03:07:11
 
 ||gob-google.com.cn^
 ||gop-google.com.cn^
