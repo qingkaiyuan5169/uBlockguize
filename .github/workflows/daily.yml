@@ -2,7 +2,7 @@ name: 银狐木马监测 - 每日更新
 
 on:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '0 * * * *' # ← 现在：每小时整点运行
   workflow_dispatch:
 
 permissions:
