@@ -1,7 +1,7 @@
 ! Title: 银狐木马监测
 ! Source: https://fyh.johnnyblog.top/fake.txt
-! Updated: 2026-08-14 05:21:41
-! Total Count: 6884
+! Updated: 2026-08-14 07:02:01
+! Total Count: 6887
 
 ||01kqg-aw2.baijia.cfd^
 ||01xitong.com.cn^
@@ -4410,6 +4410,7 @@
 ||officialwps.com.cn^
 ||ofplayer.com.cn^
 ||ohryb1orpl.app-openclaw.com.cn^
+||oiocnmbvnksdjfkhs-oss.top^
 ||ok-shanlianvpn.com.cn^
 ||ok0bqpn1rppg10jc.kuaibhplian.com.cn^
 ||okuailiani.com.cn^
@@ -6408,6 +6409,7 @@
 ||wps-nkd.com.cn^
 ||wps-office-ai.cn^
 ||wps-office-app.cn^
+||wps-office-cdn.com.cn^
 ||wps-office-com.cn^
 ||wps-office-download.hl.cn^
 ||wps-office-excel-wps.com.cn^
@@ -6823,6 +6825,7 @@
 ||zh.kuaibhplian.com.cn^
 ||zh.kuaibhulian.com.cn^
 ||zh2dp8mv08o0u0e9.chrsoe-google.com.cn^
+||zhanfubrowser.org.cn^
 ||zhanfubrowser.org^
 ||zhclash-verge.com.cn^
 ||zhcn-adspower.com.cn^
