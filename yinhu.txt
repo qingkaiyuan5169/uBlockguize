@@ -1,7 +1,7 @@
 ! Title: 银狐木马监测
 ! Source: https://fyh.johnnyblog.top/fake.txt
-! Updated: 2026-08-17 10:18:41
-! Total Count: 6893
+! Updated: 2026-08-17 11:13:55
+! Total Count: 6896
 
 ||01kqg-aw2.baijia.cfd^
 ||01xitong.com.cn^
@@ -1876,6 +1876,7 @@
 ||down.zh-drivergenius.com^
 ||down.zh-drvceo.com^
 ||downlload-protonton.com.cn^
+||download-azhioss.com^
 ||download-bt4-dingding.com.cn^
 ||download-bts-dingding.com.cn^
 ||download-dingg-ding-com.com.cn^
@@ -5037,6 +5038,7 @@
 ||quark-yun.com.cn^
 ||quark-yun.hl.cn^
 ||quark-zone.com.cn^
+||quarkcx.com^
 ||quarkdrive.com.cn^
 ||quarkdrive.hl.cn^
 ||quarke.com.cn^
@@ -5916,6 +5918,7 @@
 ||todisk-app.com.cn^
 ||todisk-todisk.com.cn^
 ||todsk.com.cn^
+||toesk.com.cn^
 ||tongdaxin.hl.cn^
 ||tonghuashun-a.com.cn^
 ||tonghuashun-b.com.cn^
