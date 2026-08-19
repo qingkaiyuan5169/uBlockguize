@@ -1,7 +1,7 @@
 ! Title: 银狐木马监测
 ! Source: https://fyh.johnnyblog.top/fake.txt
-! Updated: 2026-08-19 10:15:25
-! Total Count: 6896
+! Updated: 2026-08-19 11:12:52
+! Total Count: 6898
 
 ||01kqg-aw2.baijia.cfd^
 ||01xitong.com.cn^
@@ -132,6 +132,7 @@
 ||360qudong-pc.com.cn^
 ||360qudong.com.cn^
 ||360software.com.cn^
+||360suite.com.cn^
 ||360totalsecurity.com.cn^
 ||360totalsecurity.hl.cn^
 ||360weishi-360.com^
@@ -6466,6 +6467,7 @@
 ||wpsoffice-app.cn^
 ||wpsoffice-gw.com.cn^
 ||wpsoffok.com.cn^
+||wpssh.com.cn^
 ||wqlmyg962qco4cb1.bqkuailian.com.cn^
 ||wqps.com.cn^
 ||wqrffdsz.com^
