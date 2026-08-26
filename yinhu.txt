@@ -1,7 +1,7 @@
 ! Title: 银狐木马监测
 ! Source: https://fyh.johnnyblog.top/fake.txt
-! Updated: 2026-08-26 10:21:46
-! Total Count: 6907
+! Updated: 2026-08-26 11:17:18
+! Total Count: 6910
 
 ||01kqg-aw2.baijia.cfd^
 ||01xitong.com.cn^
@@ -57,6 +57,7 @@
 ||18m5mzkc9m84gcbl.kuailiansha.com.cn^
 ||1ac2eo857q1ylf0i.kclash.com.cn^
 ||1cbje7kiyk.aa-qishuiyinle.com.cn^
+||1gzf.com^
 ||1j2ua0b35nlg5pt6.cnwww.chirome-google.com.cn^
 ||1j2ua0b35nlg5pt6.com.cnwww.chirome-google.com.cn^
 ||1jllocp603l0d42j.apg-wps.com.cn^
@@ -1691,6 +1692,7 @@
 ||dj-deepl.com.cn^
 ||dj97yyh.com.cn^
 ||dk-anydesk.com.cn^
+||dk-tgdownload.com^
 ||dl-canva.com.cn^
 ||dl-firefox.hl.cn^
 ||dl-firefoxs.com.cn^
@@ -1744,6 +1746,7 @@
 ||dmarc.openclaw-pc.com.cn^
 ||dmarc.openclaw-web.com.cn^
 ||dmarc.openclawa-ai-ai.com.cn^
+||dmdi-inc.com^
 ||dmweishi360.hl.cn^
 ||dnweixindk.com.cn^
 ||dnweixindk.hl.cn^
