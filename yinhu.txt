@@ -1,7 +1,7 @@
 ! Title: 银狐木马监测
 ! Source: https://fyh.johnnyblog.top/fake.txt
-! Updated: 2026-08-29 02:29:46
-! Total Count: 6911
+! Updated: 2026-08-29 09:26:18
+! Total Count: 6912
 
 ||01kqg-aw2.baijia.cfd^
 ||01xitong.com.cn^
@@ -6547,6 +6547,7 @@
 ||xiaohuojianapp.com.cn^
 ||xiaojimoniqi.com.cn^
 ||xiaoliao-jvip.com.cn^
+||xiazailianjie.com^
 ||xiazaizhan.com.cn^
 ||ximalaya-fm.com.cn^
 ||ximalaya-fm.hl.cn^
