@@ -1,7 +1,7 @@
 ! Title: 银狐木马监测
 ! Source: https://deepformat.top/yh/fake.txt
-! Updated: 2026-09-05 10:57:48
-! Total Count: 6913
+! Updated: 2026-09-05 13:38:13
+! Total Count: 6915
 
 ||01kqg-aw2.baijia.cfd^
 ||01xitong.com.cn^
@@ -782,6 +782,7 @@
 ||bimi.chirome-google.com.cn^
 ||bimobimos.com.cn^
 ||bimobimos.hl.cn^
+||bingcpc.cc^
 ||bingload.cyou^
 ||bitbrowser-a.com.cn^
 ||bitbrowser-b.com.cn^
@@ -1605,6 +1606,7 @@
 ||deepseek-en.com^
 ||deepseek-seek.com.cn^
 ||deepseek-v4.icu^
+||deepseekq.com^
 ||deesv4.tos-cn-beijing.volces.com^
 ||def-sougou.com.cn^
 ||def-youdao.com.cn^
