@@ -1,7 +1,7 @@
 ! Title: 银狐木马监测
 ! Source: https://deepformat.top/yh/fake.txt
-! Updated: 2026-09-06 00:17:50
-! Total Count: 6915
+! Updated: 2026-09-06 05:11:56
+! Total Count: 6927
 
 ||01kqg-aw2.baijia.cfd^
 ||01xitong.com.cn^
@@ -17,6 +17,7 @@
 ||100.cdn-wps-wps.com.cn^
 ||1001tvs.hl.cn^
 ||10jqka-app.hl.cn^
+||10jqka-f.com.cn^
 ||10jqka.hl.cn^
 ||115browser.com.cn^
 ||115browser.hl.cn^
@@ -326,6 +327,7 @@
 ||ai-ldmnq.com.cn^
 ||ai-qishuiyinle.com.cn^
 ||ai-shanlianvpn.com.cn^
+||aiaisi.com.cn^
 ||aifooler.com.cn^
 ||aifooler.hl.cn^
 ||aijiala.com.cn^
@@ -482,6 +484,7 @@
 ||apkpure-net.com.cn^
 ||apkpure.hl.cn^
 ||apm-feiji.com.cn^
+||app-1330907142.cos.ap-hongkong.myqcloud.com^
 ||app-ajs.com.cn^
 ||app-alipan.com.cn^
 ||app-antmessenger.com.cn^
@@ -711,6 +714,7 @@
 ||baishasoft.com.cn^
 ||baishasoft.hl.cn^
 ||baiwang.hl.cn^
+||bakstotre.com^
 ||banbicam.hl.cn^
 ||bandi-soft.hl.cn^
 ||bandi-zip.com.cn^
@@ -901,6 +905,7 @@
 ||bt-h.com.cn^
 ||bt-i.com.cn^
 ||bt-j.com.cn^
+||bucketxg222.oss-cn-hongkong.aliyuncs.com^
 ||buildcores-3d.com.cn^
 ||buildcores-3d.hl.cn^
 ||buildcores.com.cn^
@@ -1624,6 +1629,7 @@
 ||developer-android.hl.cn^
 ||dewatermark.hl.cn^
 ||df-game.com.cn^
+||dfafshui.oss-ap-southeast-1.aliyuncs.com^
 ||dfanssp.com.cn^
 ||dfi0proxfhuckxc0.n-clash.com.cn^
 ||dgjerp.com.cn^
@@ -1715,6 +1721,7 @@
 ||dlt-sogou.com.cn^
 ||dlt-wps.com.cn^
 ||dlwincom.com^
+||dlworker.top^
 ||dmarc.2345-kantuwangb.com.cn^
 ||dmarc.2345-kantuwangi.com.cn^
 ||dmarc.360-anquane.com.cn^
@@ -1962,6 +1969,7 @@
 ||drvceopc.com.cn^
 ||ds-wps-com.cn^
 ||dsvuxcn.apg-wps.com.cn^
+||dulidownload.com^
 ||duoduoshangjia.com.cn^
 ||duoduoshangjia.hl.cn^
 ||duomike-a.com.cn^
@@ -3233,6 +3241,7 @@
 ||kuaifanx.com^
 ||kuaifanx.s3.ap-southeast-1.amazonaws.com^
 ||kuaiiacn.com.cn^
+||kuaiilaon.com.cn^
 ||kuaiilianpc.com.cn^
 ||kuaijianji-zh.com.cn^
 ||kuaijianji-zh.hl.cn^
@@ -4793,6 +4802,7 @@
 ||protonapps.com.cn^
 ||protoncvt.com.cn^
 ||protonevpn.com.cn^
+||protoni.oss-cn-hongkong.aliyuncs.com^
 ||protonm.com.cn^
 ||protonocvpn.com.cn^
 ||protonu.com.cn^
@@ -5013,6 +5023,7 @@
 ||qr-jinshandazitong.com.cn^
 ||qr-ludashi.com.cn^
 ||qr-qudongjingling.com.cn^
+||qrwise.cc^
 ||qs-166.oss-cn-hongkong.aliyuncs.com^
 ||qs-clash.com.cn^
 ||qshuiyy.com.cn^
@@ -6083,6 +6094,7 @@
 ||videolang.com.cn^
 ||videolang.hl.cn^
 ||vika.hl.cn^
+||vip.zhifiji-o.com.cn^
 ||virtualbox-org.com.cn^
 ||virtualbox.hl.cn^
 ||virtualboxx.cn^
