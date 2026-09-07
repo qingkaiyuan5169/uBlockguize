@@ -1,7 +1,7 @@
 ! Title: 银狐木马监测
 ! Source: https://deepformat.top/yh/fake.txt
-! Updated: 2026-09-07 00:24:18
-! Total Count: 6928
+! Updated: 2026-09-07 05:20:11
+! Total Count: 6930
 
 ||01kqg-aw2.baijia.cfd^
 ||01xitong.com.cn^
@@ -5618,6 +5618,7 @@
 ||sogou-tp.com.cn^
 ||sogou-xr.com.cn^
 ||sogou-xz.com.cn^
+||sogouch.com.cn^
 ||sogoucloud.com.cn^
 ||sogoupinyin.hl.cn^
 ||sogousrf-cn.hl.cn^
@@ -6518,6 +6519,7 @@
 ||www-sougou-as.cn^
 ||www-sougou-com.cn^
 ||www-youdao-cn.cn^
+||www.qishui-china.com^
 ||wymumu-163.com.cn^
 ||wymumu163.hl.cn^
 ||wyuu-org.com.cn^
