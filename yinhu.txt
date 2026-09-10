@@ -1,7 +1,7 @@
 ! Title: 银狐木马监测
 ! Source: https://deepformat.top/yh/fake.txt
-! Updated: 2026-09-10 01:38:06
-! Total Count: 6932
+! Updated: 2026-09-10 06:42:17
+! Total Count: 6938
 
 ||01kqg-aw2.baijia.cfd^
 ||01xitong.com.cn^
@@ -792,6 +792,7 @@
 ||bitbrowser-a.com.cn^
 ||bitbrowser-b.com.cn^
 ||bitbrowser-c.com.cn^
+||bitbrowser-cn.cyou^
 ||bitbrowser-d.com.cn^
 ||bitbrowser-e.com.cn^
 ||bitbrowser-f.com.cn^
@@ -2796,6 +2797,7 @@
 ||huybao1.com.cn^
 ||hwidgen.com.cn^
 ||hz0ljf7mq24saes0.hi-shanlianvpn.com.cn^
+||hzx.me^
 ||i-bandisoft.com.cn^
 ||i-capcut.com.cn^
 ||i-deepl.com.cn^
@@ -3082,6 +3084,7 @@
 ||jkw-sogou.com.cn^
 ||jl-qudongjingling.com.cn^
 ||jneci8nbn28fk3l6.clashz.com.cn^
+||joemqnational.bond^
 ||jofgumvu4f.bd-ludashi.com.cn^
 ||jpkolweb.apd-wps.com.cn^
 ||js-design.com.cn^
@@ -5890,6 +5893,7 @@
 ||thydxfix2cjqw0tx.apd-wps.com.cn^
 ||tiangoowo-zh.com.cn^
 ||tianlangyingshi.hl.cn^
+||tianqixiazai.oss-cn-hongkong.aliyuncs.com^
 ||tianruo.hl.cn^
 ||tianyi-pc.hl.cn^
 ||tianyiyun.hl.cn^
@@ -5943,6 +5947,7 @@
 ||todeske.com.cn^
 ||todeski-org.com.cn^
 ||todeskk.com^
+||todeskl.com^
 ||todeskl.oss-cn-hongkong.aliyuncs.com^
 ||todesky-web.com.cn^
 ||todiesk.com.cn^
@@ -6077,6 +6082,7 @@
 ||v-feiji.com.cn^
 ||v-vip.com.cn^
 ||v2-clash.com.cn^
+||v2raynapps.com.cn^
 ||v3c3003uw5lrwa9g.kuaillianpc.com.cn^
 ||v894gtgndrdtjbca.kuailianhya.com.cn^
 ||v9aclhyd5gpuhaay.apf-wps.com.cn^
