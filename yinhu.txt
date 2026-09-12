@@ -1,7 +1,7 @@
 ! Title: 银狐木马监测
 ! Source: https://deepformat.top/yh/fake.txt
-! Updated: 2026-09-12 11:19:06
-! Total Count: 6944
+! Updated: 2026-09-12 14:27:19
+! Total Count: 6957
 
 ||01kqg-aw2.baijia.cfd^
 ||01xitong.com.cn^
@@ -69,6 +69,7 @@
 ||1t6hxpbm552m9p5g.apg-wps.com.cn^
 ||1xantiskrm8co63y.apd-wps.com.cn^
 ||2026qianniu.oss-cn-hongkong.aliyuncs.com^
+||2066web.cdn-doubao.cn^
 ||21vae71953.cdn-protonvpn.com.cn^
 ||23.cdn-wps-wps.com.cn^
 ||2345-kantuwanga.com.cn^
@@ -136,6 +137,7 @@
 ||360suite.com.cn^
 ||360totalsecurity.com.cn^
 ||360totalsecurity.hl.cn^
+||360weishi-360.cn^
 ||360weishi-360.com^
 ||360yasuo-360.com.cn^
 ||360yasuo-360.hl.cn^
@@ -746,6 +748,7 @@
 ||bandizip-soft.hl.cn^
 ||bandizip-tool.com.cn^
 ||bandizip-web.com.cn^
+||bandizip.app^
 ||bandizip.cc^
 ||bandizip.org.cn^
 ||bandizip365.com.cn^
@@ -2899,6 +2902,7 @@
 ||iknow-lenovo.com.cn^
 ||ikuuu.com.cn^
 ||ikuuu.hl.cn^
+||ikuuugw.com.cn^
 ||illustrator-adobe.com.cn^
 ||illustrator-free.com.cn^
 ||illustrator-free.hl.cn^
@@ -3646,8 +3650,10 @@
 ||leidiangw.com.cn^
 ||leidianh.com.cn^
 ||leidiani.com.cn^
+||leidianios.com.cn^
 ||leidianj.com.cn^
 ||leidianmnq.com.cn^
+||leidianmonii.com.cn^
 ||leidianmoniqi-android.com.cn^
 ||leidianmoniqi-baidianqi.com.cn^
 ||leidianmoniqi-bn.com.cn^
@@ -3669,6 +3675,7 @@
 ||leidianmoniqi-youxi.com.cn^
 ||leidianmoniqi-zw.com.cn^
 ||leidianmonqvv.com.cn^
+||leidianpc.com^
 ||leidianyouxi.hl.cn^
 ||leigod.com.cn^
 ||leigod.hl.cn^
@@ -4936,6 +4943,7 @@
 ||qishuigw.com.cn^
 ||qishuihe.com.cn^
 ||qishuihe.hl.cn^
+||qishuihi.com.cn^
 ||qishuiiu.com^
 ||qishuill.com^
 ||qishuimac.com.cn^
@@ -4962,6 +4970,7 @@
 ||qishuiyinyuevv.com.cn^
 ||qishuiyy-jvip.com.cn^
 ||qishuiyy1.com.cn^
+||qishuiyyds.com.cn^
 ||qishuiza.com.cn^
 ||qishuiza.hl.cn^
 ||qiyou-vpn.com.cn^
@@ -5361,6 +5370,7 @@
 ||safaribrowser.com.cn^
 ||safaribrowser.hl.cn^
 ||safeaw.com.cn^
+||safebox360.cn^
 ||safedw.com.cn^
 ||safehw.com.cn^
 ||safemw.com.cn^
@@ -6421,6 +6431,7 @@
 ||wp-quark.com.cn^
 ||wp-quark.hl.cn^
 ||wps-alc.com.cn^
+||wps-ap-wps.cn^
 ||wps-bcd.com.cn^
 ||wps-bp.cn^
 ||wps-bs.cn^
@@ -6532,7 +6543,9 @@
 ||www-sougou-as.cn^
 ||www-sougou-com.cn^
 ||www-youdao-cn.cn^
+||www.bandizip.app^
 ||www.qishui-china.com^
+||www.qishuiyyds.com.cn^
 ||wwwwasfadingding-1393918816.cos.ap-hongkong.myqcloud.com^
 ||wymumu-163.com.cn^
 ||wymumu163.hl.cn^
