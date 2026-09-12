@@ -1,7 +1,7 @@
 ! Title: 银狐木马监测
 ! Source: https://deepformat.top/yh/fake.txt
-! Updated: 2026-09-12 01:43:21
-! Total Count: 6938
+! Updated: 2026-09-12 06:34:52
+! Total Count: 6941
 
 ||01kqg-aw2.baijia.cfd^
 ||01xitong.com.cn^
@@ -2782,6 +2782,7 @@
 ||huorong-zw.com.cn^
 ||huorongac.com.cn^
 ||huoronghs.com^
+||huoronnganquans.com.cn^
 ||huya-a.com.cn^
 ||huya-b.com.cn^
 ||huya-c.com.cn^
@@ -4321,6 +4322,7 @@
 ||nnjsq.com.cn^
 ||nnjsq.hl.cn^
 ||noah-admin.site^
+||noah-ssh.com.cn^
 ||node-js.com.cn^
 ||node-js.hl.cn^
 ||nodejs-tech.com.cn^
@@ -5822,6 +5824,7 @@
 ||taptapgames.hl.cn^
 ||taptapssl.com.cn^
 ||taptapssl.hl.cn^
+||tbool.cn^
 ||tbtol.cn^
 ||tbtool-cn.hl.cn^
 ||tbtool-zh.com.cn^
