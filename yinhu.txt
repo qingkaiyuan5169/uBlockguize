@@ -1,7 +1,7 @@
 ! Title: 银狐木马监测
 ! Source: https://deepformat.top/yh/fake.txt
-! Updated: 2026-09-13 01:33:41
-! Total Count: 6958
+! Updated: 2026-09-13 06:50:48
+! Total Count: 6976
 
 ||01kqg-aw2.baijia.cfd^
 ||01xitong.com.cn^
@@ -1488,6 +1488,7 @@
 ||cntelegram.com.cn^
 ||cnuc.hl.cn^
 ||cnwww.chirome-google.com.cn^
+||cnyoudao.com.cn^
 ||cnz-telegram.com.cn^
 ||cnzifej.com.cn^
 ||com-km.com.cn^
@@ -1994,6 +1995,7 @@
 ||dxgte1ywfh.aiqiyi-d.com.cn^
 ||dyjqd-zh.com.cn^
 ||dyjqd.hl.cn^
+||dyqushui.com.cn^
 ||dzh.hl.cn^
 ||e-kuaimiao.com.cn^
 ||e-tengxun.com.cn^
@@ -4645,6 +4647,7 @@
 ||pc-proton-vpn.com.cn^
 ||pc-proton.com.cn^
 ||pc-qianniu.hl.cn^
+||pc-qishui.com^
 ||pc-qishuiapp.com.cn^
 ||pc-qqyinyuew.com.cn^
 ||pc-qtfm.com.cn^
@@ -4938,6 +4941,7 @@
 ||qishui-svip.com.cn^
 ||qishui-tunes.com.cn^
 ||qishui-vip.com.cn^
+||qishui.dev^
 ||qishuiapps.com.cn^
 ||qishuidy.hl.cn^
 ||qishuifm.com.cn^
@@ -4945,6 +4949,9 @@
 ||qishuihe.com.cn^
 ||qishuihe.hl.cn^
 ||qishuihi.com.cn^
+||qishuiib.com^
+||qishuiim.com^
+||qishuiis.com^
 ||qishuiiu.com^
 ||qishuill.com^
 ||qishuimac.com.cn^
@@ -4972,8 +4979,12 @@
 ||qishuiyy-jvip.com.cn^
 ||qishuiyy1.com.cn^
 ||qishuiyyds.com.cn^
+||qishuiyyss.com.cn^
 ||qishuiza.com.cn^
 ||qishuiza.hl.cn^
+||qishul.com^
+||qissmusic.com.cn^
+||qisuhi-mues.com^
 ||qiyou-vpn.com.cn^
 ||qk-quickq.cn^
 ||qkq-quickq.cn^
@@ -6540,6 +6551,7 @@
 ||wwiippss.oss-ap-northeast-1.aliyuncs.com^
 ||www-ajs.com.cn^
 ||www-ludashi.cn^
+||www-qishui-app.cn^
 ||www-sougou-ai.cn^
 ||www-sougou-as.cn^
 ||www-sougou-com.cn^
@@ -6547,6 +6559,9 @@
 ||www.bandizip.app^
 ||www.qishui-china.com^
 ||www.qishuiyyds.com.cn^
+||www.youdao-app.com^
+||www.youdao.im^
+||www.youdaofyi.com^
 ||wwwwasfadingding-1393918816.cos.ap-hongkong.myqcloud.com^
 ||wymumu-163.com.cn^
 ||wymumu163.hl.cn^
@@ -6726,6 +6741,7 @@
 ||youdao-youdao-cn.cn^
 ||youdaocidian.com.cn^
 ||youdaocidion.com.cn^
+||youdaodict.com.cn^
 ||youdaodict.hl.cn^
 ||youdaodicti.com.cn^
 ||youdaodicti.hl.cn^
@@ -6733,6 +6749,7 @@
 ||youdaofanyidoc.com.cn^
 ||youdaofanyii.com.cn^
 ||youdaofanyipdf.com.cn^
+||youdaoom.com^
 ||youdaosdict.com.cn^
 ||youdaosdict.hl.cn^
 ||youdaotran.com.cn^
@@ -6867,6 +6884,7 @@
 ||zh-proton-vpn.hl.cn^
 ||zh-proton.com.cn^
 ||zh-qianniu.hl.cn^
+||zh-qishuiyinyue.com^
 ||zh-qqmusic.hl.cn^
 ||zh-quark.hl.cn^
 ||zh-qudongceo.com.cn^
