@@ -1,7 +1,7 @@
 ! Title: 银狐木马监测
 ! Source: https://deepformat.top/yh/fake.txt
-! Updated: 2026-09-12 23:28:24
-! Total Count: 6957
+! Updated: 2026-09-13 01:33:41
+! Total Count: 6958
 
 ||01kqg-aw2.baijia.cfd^
 ||01xitong.com.cn^
@@ -2786,6 +2786,7 @@
 ||huorong-zw.com.cn^
 ||huorongac.com.cn^
 ||huoronghs.com^
+||huoronnganquan.com.cn^
 ||huoronnganquans.com.cn^
 ||huya-a.com.cn^
 ||huya-b.com.cn^
