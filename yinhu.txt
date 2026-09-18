@@ -1,7 +1,7 @@
 ! Title: 银狐木马监测
 ! Source: https://deepformat.top/yh/fake.txt
-! Updated: 2026-09-18 06:44:59
-! Total Count: 6978
+! Updated: 2026-09-18 11:55:03
+! Total Count: 6981
 
 ||01kqg-aw2.baijia.cfd^
 ||01xitong.com.cn^
@@ -5298,6 +5298,7 @@
 ||quickqzb.com.cn^
 ||quickqzw.com.cn^
 ||quicktvv.com.cn^
+||quieackq.com.cn^
 ||quivkqcom.hl.cn^
 ||qwen-ai.com.cn^
 ||qyweixin.hl.cn^
@@ -6019,6 +6020,7 @@
 ||trustwalletl.com.cn^
 ||trustwallett.com.cn^
 ||trustwalletw.com.cn^
+||tubuvpn.com.cn^
 ||turbo-energy.com.cn^
 ||turbo-energy.hl.cn^
 ||turbo-vpn.com.cn^
@@ -6722,6 +6724,7 @@
 ||yinyue-kugou.com.cn^
 ||yinyue-qq.hl.cn^
 ||yiwaiwaivv.com.cn^
+||yiwwde.com.cn^
 ||yjspeedtest.com.cn^
 ||yjspeedtest.hl.cn^
 ||yjt.club^
