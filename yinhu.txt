@@ -1,7 +1,7 @@
 ! Title: 银狐木马监测
 ! Source: https://deepformat.top/yh/fake.txt
-! Updated: 2026-09-25 10:38:10
-! Total Count: 6981
+! Updated: 2026-09-25 15:35:37
+! Total Count: 6994
 
 ||01kqg-aw2.baijia.cfd^
 ||01xitong.com.cn^
@@ -69,6 +69,7 @@
 ||1t6hxpbm552m9p5g.apg-wps.com.cn^
 ||1xantiskrm8co63y.apd-wps.com.cn^
 ||2026qianniu.oss-cn-hongkong.aliyuncs.com^
+||2026uuyuancheng.oss-cn-hongkong.aliyuncs.com^
 ||2066web.cdn-doubao.cn^
 ||21vae71953.cdn-protonvpn.com.cn^
 ||23.cdn-wps-wps.com.cn^
@@ -94,6 +95,7 @@
 ||29.cdn-feishu.com.cn^
 ||2bqvne7rjd.aj-qishuiyinle.com.cn^
 ||2mi7lhrz1nb50jfr.kuailiansha.com.cn^
+||2raynapps.com.cn^
 ||2u9povsr085dtra9.ok-shanlianvpn.com.cn^
 ||3.cdn-feishu.com.cn^
 ||302.caizheng110.cn^
@@ -152,6 +154,7 @@
 ||3k1vaaamre.dclash.com.cn^
 ||3ogol4kmgge2o81u.kuailianlii.com.cn^
 ||3y0c8m.8mucu.chromeg-google.com.cn^
+||47.76.62.83^
 ||49eq3p0z0rxo9rx7.chirome-google.com.cn^
 ||4kdesk.com.cn^
 ||4kdesk.hl.cn^
@@ -242,6 +245,7 @@
 ||82.cdn-wps-wps.com.cn^
 ||87.cdn-feishu.com.cn^
 ||8bdbac7ud7iq20ve.kuailiansha.com.cn^
+||8itk5k-3n302ot5eo.store^
 ||8mucu.chromeg-google.com.cn^
 ||9.cdn-feishu.com.cn^
 ||90.cdn-sunlogin.com.cn^
@@ -270,6 +274,7 @@
 ||ab-ludashi.com.cn^
 ||ab-qishuiyinle.com.cn^
 ||ab-qudongjingling.com.cn^
+||ab222.tos-cn-beijing.volces.com^
 ||abc-sogou.com.cn^
 ||abc-sougou.com.cn^
 ||abdownloadmanager.com.cn^
@@ -318,6 +323,7 @@
 ||aeacsv74zzd7x2hr.apf-wps.com.cn^
 ||aegisub.org.cn^
 ||af-qishuiyinle.com.cn^
+||afghd.oss-cn-hongkong.aliyuncs.com^
 ||after-effects.com.cn^
 ||after-effects.hl.cn^
 ||ag-qishuiyinle.com.cn^
@@ -1550,6 +1556,7 @@
 ||cyberghostvpn.com.cn^
 ||cyberghostvpn.hl.cn^
 ||d-tengxun.com.cn^
+||d.sxsjxe.cn^
 ||d70n7z7bjz.ad-qishuiyinle.com.cn^
 ||d7n9crmyuvfabziq.kuailianlik.com.cn^
 ||daf57wvhrakc8i7b.apf-wps.com.cn^
@@ -3388,6 +3395,7 @@
 ||kuake-p.com.cn^
 ||kuake-yun.com.cn^
 ||kuake.hl.cn^
+||kuake.org.cn^
 ||kuakeapp.com.cn^
 ||kuakepc.com.cn^
 ||kuakewangpan.com.cn^
@@ -4458,6 +4466,7 @@
 ||ofplayer.com.cn^
 ||ohryb1orpl.app-openclaw.com.cn^
 ||oiocnmbvnksdjfkhs-oss.top^
+||oj44472.com^
 ||ok-shanlianvpn.com.cn^
 ||ok0bqpn1rppg10jc.kuaibhplian.com.cn^
 ||okuailiani.com.cn^
@@ -5412,6 +5421,7 @@
 ||santiaovv.com.cn^
 ||sba2owa824j53roc.apd-wps.com.cn^
 ||sba2owa824j53roc.aph-wps.com.cn^
+||sbgfh.oss-cn-hongkong.aliyuncs.com^
 ||sboqy63.cdn-wps-wps.com.cn^
 ||scratch-zh.cn^
 ||scrcpy-zh.cn^
@@ -5553,6 +5563,7 @@
 ||skypei.com.cn^
 ||skypei.hl.cn^
 ||skypevv.com.cn^
+||sl3.oss-ap-southeast-1.aliyuncs.com^
 ||sleipnir.com.cn^
 ||slianvpn.com.cn^
 ||slimjet.com.cn^
@@ -5900,6 +5911,7 @@
 ||telegramxiazai.com.cn^
 ||telegreme.com.cn^
 ||telescope.clashz.com.cn^
+||telrgmr.com.cn^
 ||temporal.bqkuailian.com.cn^
 ||test-ustc.com.cn^
 ||test-ustc.hl.cn^
@@ -6941,6 +6953,7 @@
 ||zhipuqy.com.cn^
 ||zhixis.com.cn^
 ||zhixis.hl.cn^
+||zhjo44.vpcloud.fit^
 ||zhs-anydesk.com.cn^
 ||zhs-sunlogin.com.cn^
 ||zhuangjimao.com.cn^
